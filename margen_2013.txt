@@ -3,4 +3,4 @@
 Bachelet: 62%
 Matthei: 38%
 
-Margen: 24pp
+Margen: Bachelet+24
