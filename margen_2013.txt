@@ -4,3 +4,5 @@ Bachelet: 62%
 Matthei: 38%
 
 Margen: Bachelet+24
+
+Participacion: 42%
